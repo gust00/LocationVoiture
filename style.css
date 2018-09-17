@@ -1,0 +1,51 @@
+body {
+  padding-top: 10px;
+	background-color:#fafafa;
+}
+
+
+
+[class*="col-"], footer {
+/*
+  background-color: lightgreen;
+  border: 2px solid black;
+  border-radius: 6px;
+*/
+padding: 0px 10px
+}
+
+.row{
+	margin: 0 -10px 10px -10px
+}
+.content-section{
+	border: 1px solid #bfbfbf;
+	background-color: white;
+	margin-bottom: 20px;
+	padding:10px 20px;
+	border-radius:3px;
+}
+
+.article-metadata{
+	border-bottom: 1px solid #bfbfbf;
+	padding-bottom:3px;
+	margin-bottom:5px;
+}
+
+.article-title {
+  color: #444444;
+}
+
+a:hover{
+	text-decoration: none;
+	color: black;
+}
+
+a.article-title:hover {
+  color: #428bca;
+}
+
+header{
+	background-color: #5F788A;
+	color: white;
+	margin-bottom: 20px
+}
