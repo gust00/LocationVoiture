@@ -12,4 +12,5 @@ git branch -d nomDeLaBrancheàSupprimer
 git remote add origin "urlDuDépotDistant"
 
 test
+ajouté sur la branche
 
