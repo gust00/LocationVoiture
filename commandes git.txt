@@ -11,5 +11,5 @@ git mergee nomDeLaBranche‡Rappatrier
 git branch -d nomDeLaBranche‡Supprimer
 git remote add origin "urlDuDÈpotDistant"
 
-test
+testqsd
 
