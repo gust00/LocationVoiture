@@ -1,0 +1,15 @@
+git config --global user.name "Nom Prénom"
+git config --global user.email "abc@gmail.com"
+'une fois dans le dossier désiré
+git init
+git add style.css
+git commit -m "commentaire"
+git log
+git branch nomDeLaBranche
+git checkout nomDeLaBranche
+git mergee nomDeLaBrancheàRappatrier
+git branch -d nomDeLaBrancheàSupprimer
+git remote add origin "urlDuDépotDistant"
+
+test
+
